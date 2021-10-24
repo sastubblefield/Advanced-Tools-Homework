@@ -103,4 +103,11 @@ p {
     text-align: center;
     margin: 0 20px;
   }
+  .container {
+    text-align: center;
+  }
+  div.col-6 {
+    margin: 0 auto;
+    width: 75%;
+  }
 }
